@@ -1,16 +1,46 @@
-## Hi there 👋
+# Daniel José Morales Teatino
 
-<!--
-**KIDDANY07/KIDDANY07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Ingeniería de Software | Universidad de Cundinamarca**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+Soy un estudiante dedicado de Ingeniería de Software con interés en el desarrollo de aplicaciones robustas y eficientes. Me especializo en el uso de diversas tecnologías y frameworks, y me esfuerzo constantemente por actualizar mis conocimientos en un entorno tecnológico en constante evolución.
+
+---
+
+## Tecnologías y herramientas
+
+### Lenguajes de programación
+- Python  
+- Java  
+- JavaScript  
+- PHP  
+
+### Frameworks y librerías
+- Node.js  
+- React  
+- React-Vite  
+- React Native  
+
+### Bases de datos
+- MySQL  
+- MongoDB  
+
+## Sistemas operativos que suelo utilizar
+- Linux (Kali Linux, Ubuntu, Arch Linux)  
+
+---
+
+## Tecnologías en aprendizaje
+
+- Google Cloud Platform  
+- NestJS  
+- Next.js  
+- Angular  
+
+---
+---
+
+Gracias por visitar mi perfil.
