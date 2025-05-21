@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-Soy un estudiante dedicado de Ingeniería de Software con interés en el desarrollo de aplicaciones robustas y eficientes. Me especializo en el uso de diversas tecnologías y frameworks, y me esfuerzo constantemente por actualizar mis conocimientos en un entorno tecnológico en constante evolución.
+Soy estudiante de Ingeniería de Software en la Universidad de Cundinamarca, con un fuerte interés en el aprendizaje continuo de nuevas tecnologías y herramientas. Me apasiona todo lo relacionado con el desarrollo web y la ciberseguridad.
 
 ---
 
@@ -28,7 +28,7 @@ Soy un estudiante dedicado de Ingeniería de Software con interés en el desarro
 - MySQL  
 - MongoDB  
 
-## Sistemas operativos que suelo utilizar
+### Sistemas operativos que puedo manejar
 - Linux (Kali Linux, Ubuntu, Arch Linux)  
 
 ---
@@ -40,7 +40,6 @@ Soy un estudiante dedicado de Ingeniería de Software con interés en el desarro
 - Next.js  
 - Angular  
 
----
 ---
 
 Gracias por visitar mi perfil.
